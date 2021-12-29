@@ -1,4 +1,4 @@
-# IMAGE-QUILTING-CSE3018
+# Image Quilting for Texture Synthesis and Transfer
 
 > This project implements a texture synthesis and transfer technique as described in the paper - [Image Quilting for Texture Synthesis and Transfer]
 
